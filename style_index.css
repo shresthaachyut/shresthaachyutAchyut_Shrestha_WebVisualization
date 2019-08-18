@@ -1,0 +1,25 @@
+#Latitude {
+  background-color: rgb(88, 151, 151)
+}
+
+#container {
+  background-color: lightgrey;
+}
+
+.headerClass{
+  color: rgb(88, 151, 151)
+}
+
+#navigatorBackground{
+  background-color: aliceblue;
+}
+
+#subcontainter{
+  background-color: white;
+  
+  padding: 2%;
+}
+
+#sub2container{
+  margin-right: 150px;
+}
